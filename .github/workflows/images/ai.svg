@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80.028" viewBox="0 0 80 80.028">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_45525" data-name="Rectangle 45525" width="79.999" height="80" fill="none" stroke="#2ad46f" stroke-linecap="round" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="ai" transform="translate(0 0)">
+    <rect id="Rectangle_729" data-name="Rectangle 729" width="80" height="80" transform="translate(0 0)" fill="#f9f9f9" opacity="0"/>
+    <g id="Group_125313" data-name="Group 125313" transform="translate(0 0.028)">
+      <g id="Group_122829" data-name="Group 122829" transform="translate(0 0)">
+        <g id="Group_122826" data-name="Group 122826">
+          <g id="Group_122825" data-name="Group 122825" clip-path="url(#clip-path)">
+            <path id="Path_252059" data-name="Path 252059" d="M38.551.8A37.8,37.8,0,0,0,.8,38.551a2.006,2.006,0,0,0,.189.829c.664,12.044,15.568,20.084,37.566,20.084,13.644,0,24.542-3.1,31.035-8.32-4.121,8.967-12.758,15.194-24.067,17v-.607A1.64,1.64,0,0,0,43.878,65.9H33.226a1.64,1.64,0,0,0-1.641,1.638v6.339a1.641,1.641,0,0,0,1.641,1.641H43.878a1.641,1.641,0,0,0,1.641-1.641V72.188c18.193-2.716,30.786-16.01,30.786-33.637A37.8,37.8,0,0,0,38.551.8M51.133,25.079V52.023a.663.663,0,0,1-.751.751H47.595a.663.663,0,0,1-.751-.751V25.079a.663.663,0,0,1,.751-.751h2.787a.663.663,0,0,1,.751.751M28,25.079a.99.99,0,0,1,1.061-.751h4.424a.952.952,0,0,1,1.061.751l7.7,26.945c.115.5-.047.751-.489.751H38.615a.748.748,0,0,1-.553-.155,1.186,1.186,0,0,1-.246-.6l-1.681-5.752H26.4l-1.682,5.752c-.118.5-.384.751-.8.751H20.738c-.411,0-.559-.249-.438-.751Zm41.889,1.112c-5.186-4.31-13.334-7.211-23.524-8.185V5.787a33.8,33.8,0,0,1,23.524,20.4M43.2,5.2V17.776c-1.513-.081-3.056-.135-4.65-.135s-3.137.054-4.65.135V5.2a33.6,33.6,0,0,1,4.65-.361A33.557,33.557,0,0,1,43.2,5.2m-12.458.59V18.005A57.755,57.755,0,0,0,7.215,26.191a33.413,33.413,0,0,1,23.528-20.4" transform="translate(1.439 1.439)" fill="none" stroke="#2ad46f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <path id="Path_252060" data-name="Path 252060" d="M12.728,9.039h-.179L8.657,23.2h8.007Z" transform="translate(20.068 20.973)" fill="none" stroke="#2ad46f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
